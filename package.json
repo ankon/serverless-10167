@@ -1,0 +1,15 @@
+{
+  "name": "@ankon/serverless-10167",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "serverless deploy",
+    "reset": "serverless remove"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless": "^2.64.1"
+  }
+}
